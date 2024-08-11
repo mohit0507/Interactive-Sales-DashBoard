@@ -65,4 +65,4 @@ EDA was performed successfully and desired results were achieved.
 
 ## Screenshots
 
-![Dashboard Screenshot](link_to_screenshot_image)
+![Dashboard](https://github.com/user-attachments/assets/a79e11cc-68a6-4422-970b-34f7cfdb6ab0)
